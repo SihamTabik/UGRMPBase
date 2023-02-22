@@ -46,8 +46,8 @@ Mira los vídeos de [introducción a la asignatura](https://drive.google.com/fil
 |Semana3	6/mar/2023 | |<ol><li>[**NetBeans 3**](#netbeans) <ul><li>El [depurador](#depurador) de progrmas</ul>|  |
 |Semana4	13/mar/2023 |[**Language1**](https://github.com/Anatoli-Grishenko/UGRMPBase/blob/main/PDFs/language1.pdf)  Bigramas con frecuencias asociadas |  |Acceso a [datos en disco](#ficheros). Lectura y escritura. Errores frecuentes |
 |Semana5	20/mar/2023 |[**Language2**](https://github.com/Anatoli-Grishenko/UGRMPBase/blob/main/PDFs/language2.pdf)  ||Uso de [parámetros](#parametrosmain) desde la línea de comandos|
-|Semana6	27/mar/2023 | | | |
-|Semana7	3/abr/2023 | **Semana Santa**| | | 
+|Semana6	27/mar/2023  | **Semana Santa**| | |
+|Semana7	3/abr/2023 | | | | 
 |Semana8	10/abr/2023 | |
 |Semana9	17/abr/2023 |[**Language3**](https://github.com/Anatoli-Grishenko/UGRMPBase/blob/main/PDFs/language3.pdf)  | [**valgrind**](https://github.com/Anatoli-Grishenko/UGRMPBase/blob/main/PDFs/valgrind.pdf) Detección de pérdidas de memoria| Uso de memoria dinámica en C++. Arrays dinámicos. Detección de pérdidas de memoria|
 |Semana10	24/abr/2023 |||||
