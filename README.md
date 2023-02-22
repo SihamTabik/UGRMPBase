@@ -10,7 +10,8 @@
   - Las transparencias del vídeo con enlaces 
   - <a name="repo"></a>Descargar el repo
     ```
-    git clone https://github.com/Anatoli-Grishenko/UGRMPBase UGRMPBase
+    git clone https://github.com/SihamTabik/UGRMPBase  UGRMPBase
+   
     ``` 
   - Mantener el repo actualizado con los últimos cambios
     ```
