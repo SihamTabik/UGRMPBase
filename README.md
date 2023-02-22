@@ -35,7 +35,7 @@
    - [Tutorial instalación NetBeans](https://www.youtube.com/watch?v=zCJpPZ548Oo)
    - [Tutorial instalación plugin C++ para NetBeans](https://www.youtube.com/watch?v=ZA1iRNznGug)
 
-# Secuencia de prácticas
+# 2. Secuencia de prácticas
 
 Mira los vídeos de [introducción a la asignatura](https://drive.google.com/file/d/1VO7ib1QnUlEk1pHtn4F7D6QJwZZykgbo/view?usp=sharing)  y de [introducción a las prácticas](https://drive.google.com/file/d/1peiNfwzRKYvCFHCJlSH2licuhCIuEeqL/view?usp=share_link)
 
