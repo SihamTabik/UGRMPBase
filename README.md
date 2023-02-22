@@ -43,20 +43,19 @@ Mira los vídeos de [introducción a la asignatura](https://drive.google.com/fil
 | -----| -----|-----| ----- |
 |Semana1 27/feb/2023 || <ol><li>[**NetBeans 1**](#netbeans) <ul><li>Primeros pasos <li>HelloWorld <li>Directivas del precompilador</ul> <li> Gestión de la documentación con [Doxygen](#doxygen) </ol>| <ol><li>Caso práctico: Análisis del el proyecto [MP Geometry](#mpgeometry)<ul><li>Métodos `const`.<li>Parámetros por valor y por referencia. <li>Funciones friend<li>Validación simple de programas. Lectura de datos con redirección de la enrtada</ul><li>Caso práctico: Separación de la declaración e implementación de los métodos con el proyecto [MP Geometry](#mpgeometry)<li> Caso práctico: Compilación separada con el proyecto [MP Geometry](#mpgeometry)</ol>|
 |Semana2	6/mar/2023 | [**Language0**](https://github.com/Anatoli-Grishenko/UGRMPBase/blob/main/PDFs/language0.pdf) Manejo de Bigramas | <ol><li>[**NetBeans 2**](#netbeans) <ul><li>Compilación separada: Bibliotecas</ul>|<ol><li> Clases con vectores estáticos. Paso de vectores a funciones y métodos <li> Uso de bibliotecas con el proyecto [MP Geometry](#mpgeometry) </ol>|
-|Semana3	6/mar/2023 | |<ol><li>[**NetBeans 3**](#netbeans) <ul><li>El [depurador](#depurador) de progrmas</ul>|  |
-|Semana4	13/mar/2023 |[**Language1**](https://github.com/Anatoli-Grishenko/UGRMPBase/blob/main/PDFs/language1.pdf)  Bigramas con frecuencias asociadas |  |Acceso a [datos en disco](#ficheros). Lectura y escritura. Errores frecuentes |
-|Semana5	20/mar/2023 |[**Language2**](https://github.com/Anatoli-Grishenko/UGRMPBase/blob/main/PDFs/language2.pdf)  ||Uso de [parámetros](#parametrosmain) desde la línea de comandos|
-|Semana6	27/mar/2023  | **Semana Santa**| | |
-|Semana7	3/abr/2023 | | | | 
-|Semana8	10/abr/2023 | |
-|Semana9	17/abr/2023 |[**Language3**](https://github.com/Anatoli-Grishenko/UGRMPBase/blob/main/PDFs/language3.pdf)  | [**valgrind**](https://github.com/Anatoli-Grishenko/UGRMPBase/blob/main/PDFs/valgrind.pdf) Detección de pérdidas de memoria| Uso de memoria dinámica en C++. Arrays dinámicos. Detección de pérdidas de memoria|
-|Semana10	24/abr/2023 |||||
-|Semana11	1/may/2023 | [**Language4**](https://github.com/Anatoli-Grishenko/UGRMPBase/blob/main/PDFs/language4.pdf) | | Constructor de copia+Operador de asignación+Destructor|
-|Semana12	8/may/2023 |**Language4** <br>**Examen de laboratorio**<br>1 PUNTO | | |
-|Semana13	15/may/2023 |[**Language5**](https://github.com/Anatoli-Grishenko/UGRMPBase/blob/main/PDFs/Language5.pdf) <br>2 PUNTOS | | Matrices bidimensionales dinámicas. CStrings |
-|Semana14	22/may/2023 | | | |
-|Semana15	29/may/2023 | | | |
-|Semana16	5/jun/2023 | | | |
+|Semana3	13/mar/2023 | |<ol><li>[**NetBeans 3**](#netbeans) <ul><li>El [depurador](#depurador) de progrmas</ul>|  |
+|Semana4	20/mar/2023 |[**Language1**](https://github.com/Anatoli-Grishenko/UGRMPBase/blob/main/PDFs/language1.pdf)  Bigramas con frecuencias asociadas |  |Acceso a [datos en disco](#ficheros). Lectura y escritura. Errores frecuentes |
+|Semana5	27/mar/2023 |[**Language2**](https://github.com/Anatoli-Grishenko/UGRMPBase/blob/main/PDFs/language2.pdf)  ||Uso de [parámetros](#parametrosmain) desde la línea de comandos|
+|Semana6	3/abr/2023  | **Semana Santa**| | |
+|Semana7	10/abr/2023 | | | | 
+|Semana8	17/abr/2023 | |
+|Semana9	24/abr/2023 |[**Language3**](https://github.com/Anatoli-Grishenko/UGRMPBase/blob/main/PDFs/language3.pdf)  | [**valgrind**](https://github.com/Anatoli-Grishenko/UGRMPBase/blob/main/PDFs/valgrind.pdf) Detección de pérdidas de memoria| Uso de memoria dinámica en C++. Arrays dinámicos. Detección de pérdidas de memoria|
+|Semana10	1/may/2023 |||||
+|Semana11	8/may/2023 | [**Language4**](https://github.com/Anatoli-Grishenko/UGRMPBase/blob/main/PDFs/language4.pdf) | | Constructor de copia+Operador de asignación+Destructor|
+|Semana12	15/may/2023 |**Language4** <br>**Examen de laboratorio**<br>1 PUNTO | | |
+|Semana13	22/may/2023 |[**Language5**](https://github.com/Anatoli-Grishenko/UGRMPBase/blob/main/PDFs/Language5.pdf) <br>2 PUNTOS | | Matrices bidimensionales dinámicas. CStrings |
+|Semana14	29/may/2023 | | | |
+|Semana15	5/jun/2023 | | | |
 |||||
 
 # Técnicas, herramientas y metodologías de prácticas
