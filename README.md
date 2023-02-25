@@ -32,7 +32,7 @@
 
 # 2. Secuencia de prácticas
 
-Mira los vídeos de [introducción a la asignatura](https://drive.google.com/file/d/1VO7ib1QnUlEk1pHtn4F7D6QJwZZykgbo/view?usp=sharing)  y de [introducción a las prácticas](https://drive.google.com/file/d/1peiNfwzRKYvCFHCJlSH2licuhCIuEeqL/view?usp=share_link)
+Mira el video de: [introducción a las prácticas](https://drive.google.com/file/d/1peiNfwzRKYvCFHCJlSH2licuhCIuEeqL/view?usp=share_link)
 
 |Comienzo | Práctica <br> Entregable en Prado | Herramientas | Metodología
 | -----| -----|-----| ----- |
