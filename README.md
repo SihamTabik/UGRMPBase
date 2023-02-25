@@ -16,7 +16,11 @@ a - Opción de VirtualBox, el profesorado de MP hemos preparado una copia de una
    - Importar la máquina virtual  y acceder a ella. [guía de importación](https://github.com/Anatoli-Grishenko/UGRMPBase/blob/main/PDFs/importova.pdf)
    - Usuario `mp`
    - Password `.CambiaEsto`
+   
+
 b - Laboratorios de prácticas de la ETSIIT. Arranque con Ubuntu 20.04. El resto de herramientas ya están instaladas.
+
+
 c - Y, finalmente una última opción: el servidor de imágenes virtuales de la [ETSIIT](https://turing.ugr.es/). Arrancar con Ubuntu 18. Ya tiene instalado NetBeans 11.2 y C++. 
 - Enlaces interesantes
    - [Descargar la imagen de Ubuntu](https://ubuntu.com/download/desktop)
