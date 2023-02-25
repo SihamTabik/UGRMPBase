@@ -3,7 +3,7 @@
 # UGRMPBase Un repo base para la asignatura Metodología de la programación
 
 # <a name="preping"></a>1. Preparando el entorno de trabajo 
-- introducción: [Videotutorial](https://drive.google.com/file/d/1VO7ib1QnUlEk1pHtn4F7D6QJwZZykgbo/view?usp=sharing) 
+- Introducción: [Videotutorial](https://drive.google.com/file/d/1VO7ib1QnUlEk1pHtn4F7D6QJwZZykgbo/view?usp=sharing) 
 - Tenemos que tener instalado en nuestro ordenador:
 	- Linux
 	- Netbeans
