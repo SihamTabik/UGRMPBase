@@ -2,9 +2,9 @@
 
 # UGRMPBase Un repo base para la asignatura Metodología de la programación
 
-# <a name="preping"></a>1. Preparando el entorno de trabajo (Linux, Netbeans)
+# <a name="preping"></a>1. Preparando el entorno de trabajo 
 -  [Videotutorial](https://drive.google.com/file/d/1VO7ib1QnUlEk1pHtn4F7D6QJwZZykgbo/view?usp=sharing) Visión global de la asignatura.
-
+- Tenemos que tener Linux y Netbeans
 - Paquetes de Linux que deben estar presentes durante las prácticas (sudo apt install) `gcc` `make`    `valgrind`     `wdiff`  `doxygen`    `ImageMagick` `git` `graphviz`
 	
 # 1.1 Para instalar Linux, tenemos 3 opciones: 
