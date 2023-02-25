@@ -4,8 +4,10 @@
 
 # <a name="preping"></a>1. Preparando el entorno de trabajo 
 - introducción: [Videotutorial](https://drive.google.com/file/d/1VO7ib1QnUlEk1pHtn4F7D6QJwZZykgbo/view?usp=sharing) 
-- Tenemos que tener Linux y Netbeans
-- Paquetes de Linux que deben estar presentes durante las prácticas (sudo apt install) `gcc` `make`    `valgrind`     `wdiff`  `doxygen`    `ImageMagick` `git` `graphviz`
+- Tenemos que tener instalado en nuestro ordenador:
+	- Linux
+	- Netbeans
+	- Paquetes de Linux que deben estar presentes durante las prácticas (sudo apt install) `gcc` `make`    `valgrind`     `wdiff`  `doxygen`    `ImageMagick` `git` `graphviz`
 	
 # 1.1 Para instalar Linux, tenemos 3 opciones: 
 
